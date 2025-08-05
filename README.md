@@ -1,5 +1,7 @@
 # Responsive Plants Website 🎍 
 
+# https://encyclopedia119.github.io/plant-website/
+
 - Responsive Plants Website Using HTML, CSS and JavaScript.
 - Contains animations when scrolling.
 - Includes a dark and light mode.
@@ -8,4 +10,5 @@
 
 
 ![plants website](/preview.png)
+
 
